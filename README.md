@@ -1,0 +1,1 @@
+ Boston Housing dataset, which contains detailed information about housing prices in various neighborhoods. Using PySpark to analyze the dataset by categorizing the housing records into bins based on the average number of rooms ("RM") and calculating statistics for each bin.
